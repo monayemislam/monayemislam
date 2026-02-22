@@ -17,17 +17,11 @@ I'm **Monayem Islam** — a full-stack developer with a solopreneur mindset. I b
 
 Things I've built and shipped:
 
-| Product | Tagline | Launch |
-|---------|---------|--------|
-| **[GitWrap](https://www.producthunt.com/products/gitwrap-2026)** | See and share your coding journey beautifully | Dec 2025 |
-| **[Built For Devs](https://www.producthunt.com/products/built-for-devs)** | Dev tools: Built for a developer, by a developer. | Feb 2025 |
-| **[IELTS Kit](https://www.producthunt.com/products/ielts-kit)** | Simplify your IELTS journey. | Jan 2025 |
-
-**Review on Product Hunt:**
-
-<a href="https://www.producthunt.com/products/gitwrap-2026/reviews/new?utm_source=badge-product_review&utm_medium=badge&utm_source=badge-gitwrap&#0045;2026" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=1137627&theme=light" alt="GitWrap - See and share your coding journey beautifully | Product Hunt" width="250" height="54" /></a>
-<a href="https://www.producthunt.com/products/built-for-devs/reviews/new?utm_source=badge-product_review&utm_medium=badge&utm_source=badge-built&#0045;for&#0045;devs" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=970525&theme=light" alt="Built For Devs - Dev tools: Built for a developer, by a developer. | Product Hunt" width="250" height="54" /></a>
-<a href="https://www.producthunt.com/products/ielts-kit/reviews/new?utm_source=badge-product_review&utm_medium=badge&utm_source=badge-ielts&#0045;kit" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=853887&theme=light" alt="IELTS Kit - Simplify your IELTS journey. | Product Hunt" width="250" height="54" /></a>
+| Product | Tagline | Launch | Review on Product Hunt |
+|---------|---------|--------|------------------------|
+| **[GitWrap](https://www.producthunt.com/products/gitwrap-2026)** | See and share your coding journey beautifully | Dec 2025 | <a href="https://www.producthunt.com/products/gitwrap-2026/reviews/new?utm_source=badge-product_review&utm_medium=badge&utm_source=badge-gitwrap&#0045;2026" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=1137627&theme=light" alt="GitWrap \| Product Hunt" width="250" height="54" /></a> |
+| **[Built For Devs](https://www.producthunt.com/products/built-for-devs)** | Dev tools: Built for a developer, by a developer. | Feb 2025 | <a href="https://www.producthunt.com/products/built-for-devs/reviews/new?utm_source=badge-product_review&utm_medium=badge&utm_source=badge-built&#0045;for&#0045;devs" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=970525&theme=light" alt="Built For Devs \| Product Hunt" width="250" height="54" /></a> |
+| **[IELTS Kit](https://www.producthunt.com/products/ielts-kit)** | Simplify your IELTS journey. | Jan 2025 | <a href="https://www.producthunt.com/products/ielts-kit/reviews/new?utm_source=badge-product_review&utm_medium=badge&utm_source=badge-ielts&#0045;kit" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=853887&theme=light" alt="IELTS Kit \| Product Hunt" width="250" height="54" /></a> |
 
 **[→ Follow me on Product Hunt](https://www.producthunt.com/@monayem)**
 
@@ -59,7 +53,8 @@ Contributions to upstream projects:
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=monayemislam&show_icons=true&theme=default)
+<img src="https://github-readme-stats.vercel.app/api?username=monayemislam&show_icons=true&theme=github&hide_border=true" alt="GitHub stats" width="400" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=monayemislam&theme=github&hide_border=true" alt="GitHub streak" width="400" />
 
 ---
 
