@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Monayem Islam** — a full-stack developer with a solopreneur mindset. I build with Laravel, React, and modern web stacks, ship AI applications and my own products, and enjoy contributing to open source.
+I'm **Monayem Islam** — a full-stack developer with a solopreneur mindset. I build with Laravel, React, and modern web stacks, ship AI applications and my own products, and enjoy contributing to open source. Learn more about me at [monayemislam.me](https://monayemislam.me/).
 
 ---
 
@@ -48,13 +48,6 @@ Contributions to upstream projects:
 
 - **[laravel/ai](https://github.com/laravel/ai)** — Fix invalid Message role and null response in HandlesRateLimiting ([#150](https://github.com/laravel/ai/pull/150), merged)
 - **[laravel/docs](https://github.com/laravel/docs)** — Fix anchor link for `assertServiceUnavailable` and line break in Artisan docs ([#10203](https://github.com/laravel/docs/pull/10203), merged)
-
----
-
-## Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=monayemislam&show_icons=true&theme=github&hide_border=true" alt="GitHub stats" width="400" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=monayemislam&theme=github&hide_border=true" alt="GitHub streak" width="400" />
 
 ---
 
